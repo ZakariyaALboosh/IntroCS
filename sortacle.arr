@@ -1,10 +1,11 @@
+
 use context essentials2021
 
 data Person:
   | person(name :: String, age :: Number)
 end
 
-
+#solution to the sortacle assignment. to be commented and converted from pyret to python.
 
 fun generate-input(n :: Number) -> List<Person>:
   repeat(n, generate-person())
