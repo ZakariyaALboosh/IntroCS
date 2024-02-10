@@ -1,5 +1,4 @@
-# IntroCS   
-### Learning in Public!
+# Intro CS   
 Self-studying an Accelerated Introduction to CS (course and assignments from brown university).       source @ learnaifromscratch.github.io/software.html
 Getting back into programming after a long, regretted pause ... since first learning about it in high school.
 
